@@ -1,5 +1,6 @@
 # Front end face-detection app
 Built with React
+
 To run this project
 ```bash
 npm start
